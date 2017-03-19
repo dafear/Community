@@ -7,7 +7,7 @@ $(function() {
     );
   });
   
-  $('li').click(function(event) {
+  $('li').clickcss(function(event) {
     this.remove();
   });
 });
