@@ -6,7 +6,7 @@ My next screen shot (interface.png) shows the base page
 
 #This link and my final screen shot show my user flows and wire frames *(note) my final shot (wireframe.png) is the actual calendar interface that I'll be using in my final design specs after re-sizing:
 
-https://drive.google.com/open?id=0BzXdJ0MjK4eTblJ6Ym0tMlNNMTBaLWh5MkJYWlkyMmlqbWg4
+https://drive.google.com/file/d/0BzXdJ0MjK4eTc3Y1UktmNGdaOEJfandNU21LUFpyemlxTkJj/view?usp=sharing
 
 
 ##Summary-The Bronx Culture Collective is a nonprofit organization designed to facilitate partnerships between Bronx-based arts/cultural organizations and instituations. The membership varies from large organizations such as museums to smaller neighborhood based community centers. BCC is searching for a way to utilize a central calendar to enforce collaboration between the groups. For example, when one group posts an event, the other groups can share that event with their members as well to promote cross-collaboration and increased turn out.  
